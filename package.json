@@ -1,6 +1,5 @@
 {
-  "homepage" : "https://happythemis.github.io/cs411web",
-  "name": "cs411front",
+  "name": "cs411web",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -23,7 +22,6 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "proxy": "http://localhost:5000",
   "browserslist": {
     "production": [
       ">0.2%",
